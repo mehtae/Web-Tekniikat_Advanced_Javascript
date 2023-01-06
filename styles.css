@@ -1,0 +1,58 @@
+body {
+    max-width: 1500px;
+    max-height: 750px;
+}
+
+.form {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    max-width: 25%;
+}
+
+.name {
+    max-width: 30%;
+}
+
+.text {
+    height: 10rem;
+}
+
+.checkboxdiv {
+    padding: 10px;
+    margin-left: -15px;
+}
+
+.submit {
+    padding-top: 5px;
+}
+
+.poststyle {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 5px black;
+    width: 25%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+
+.redborder {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 5px black;
+    width: 25%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border: 3px solid red;
+}
+
+.postdateandnamestyle {
+    font-size: large;
+}
+
+.postcontentstyle {
+    font-size: medium;
+}
